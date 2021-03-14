@@ -1,0 +1,92 @@
+[
+  {
+    "category": "дом",
+    "name": "комфорт 1",
+    "image": "products_images/product-1.jpg",
+    "short_desc": "комфортный стул",
+    "description": "подойдет для просмотра фильмов",
+    "price": "2223.5",
+    "quantity": "15"
+  },
+  {
+    "category": "дом",
+    "name": "комфорт 2",
+    "image": "products_images/product-2.jpg",
+    "short_desc": "очен комфортный стул",
+    "description": "подойдет для общения с друзьями",
+    "price": "3654.7",
+    "quantity": "12"
+  },
+  {
+    "category": "дом",
+    "name": "люкс",
+    "image": "products_images/product-3.jpg",
+    "short_desc": "использованы премиальные материалы",
+    "description": "для тех, кто стремится к лучшему",
+    "price": "8567.99",
+    "quantity": "5"
+  },
+  {
+    "category": "офис",
+    "name": "стандарт",
+    "image": "products_images/product-4.jpg",
+    "short_desc": "универсальное решение",
+    "description": "подойдет для любого офиса",
+    "price": "1985.23",
+    "quantity": "22"
+  },
+  {
+    "category": "офис",
+    "name": "премиум",
+    "image": "products_images/product-5.jpg",
+    "short_desc": "улучшенный дизайн",
+    "description": "идеально впишется в строгий интерьер офиса",
+    "price": "3598.25",
+    "quantity": "9"
+  },
+  {
+    "category": "модерн",
+    "name": "новинка",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "инновационный дизайн",
+    "description": "нестандартное решение для современного интерьера",
+    "price": "5365.25",
+    "quantity": "19"
+  },
+  {
+    "category": "модерн",
+    "name": "прогресс",
+    "image": "products_images/product-7.jpg",
+    "short_desc": "прогрессивный дизайн",
+    "description": "функциональное и комфортное решение",
+    "price": "6465.25",
+    "quantity": "5"
+  },
+  {
+    "category": "классика",
+    "name": "венеция",
+    "image": "products_images/product-8.jpg",
+    "short_desc": "классические формы",
+    "description": "окунитесь в европейский комфорт",
+    "price": "4165.25",
+    "quantity": "25"
+  },
+  {
+    "category": "классика",
+    "name": "тоскана",
+    "image": "products_images/product-9.jpg",
+    "short_desc": "эргономичная спинка",
+    "description": "почувствуйте комфорт и насладитесь цветовой гаммой",
+    "price": "2865.25",
+    "quantity": "11"
+  },
+  {
+    "category": "классика",
+    "name": "рим",
+    "image": "products_images/product-10.jpg",
+    "short_desc": "удачные пропорции",
+    "description": "компактность и функциональность",
+    "price": "8865.25",
+    "quantity": "14"
+  }
+]
